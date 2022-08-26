@@ -14,20 +14,7 @@ while i<len(a):
     i=i+1
 print(b,c)
 print(d,c1)        
-            
-
-
-# i=1
-# while i<=50:
-#     if i%3==0 and i%5==0:
-#         print(i,"pooja binjwa")
-#     elif i%3==0:
-#         print(i,"pooja")
-#     elif i%5==0:
-#         print(i,"binjwa")
-#     else:
-#         print(i,"not")
-#     i=i+1
+          
 
 
 
